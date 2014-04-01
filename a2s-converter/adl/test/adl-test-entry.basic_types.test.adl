@@ -2,7 +2,7 @@ archetype
 	adl-test-ENTRY.test.draft
 
 concept 
-	[at0000]	--  basic data types test 1
+	[at0000]	--  basic data types test 1 
 
 language
 	original_language = <[ISO_639-1::en]> 
